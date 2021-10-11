@@ -1,7 +1,7 @@
-### Hi there 👋
+### Buy me a coffee 🤞
 
 <a href="devfemibadmus.github.io">visit me<a/>
 
 
 
-<img src="https://dl.dropbox.com/s/muei4ihuzt836j2/IMG_20210514_083144_302.jpg?">
+<img src="IMG_20211006_213631_754.jpg">
