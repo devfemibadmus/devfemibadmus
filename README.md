@@ -1,6 +1,6 @@
 ### Buy me a coffee 🤞
 
-<a href="devfemibadmus.github.io">visit me<a/>
+
 
 
 
