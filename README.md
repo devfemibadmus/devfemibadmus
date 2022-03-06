@@ -7,7 +7,7 @@
 
 - 🤝 I’m currently seeking a Django Dev Role
 
-```md
+```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank">
