@@ -18,11 +18,11 @@
 </a>
 
 <a href="https://www.python.org" target="_blank">
-<img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="80" height="40"/>
+<img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="100" height="40"/>
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="typescript" width="40" height="40"/>
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
