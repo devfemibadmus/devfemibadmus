@@ -1,13 +1,9 @@
 <h1 align="center">Dev Femi Badmus</h1>
 <h3 align="left">Web Full Stack Developer 💻 </h3>
 
-- 🔭 I’m currently working on [Hudallahi](https://hudallahi.herokuapp.com)
+- currently working on [Hudallahi](https://hudallahi.herokuapp.com)
 
-- 🌱 I’m currently learning **Flutter** to become [Full Stack Dev](https://flutter.com/)
-
-- 🤝 I’m currently seeking a Django Dev Role
-
-<h3 align="left">Languages and Tools:</h3>
+<h5 align="left">Languages and Tools:</h5>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
