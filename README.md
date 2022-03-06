@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://www.python.org" target="_blank">
-<img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="40" height="40"/>
+<img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="80" height="40"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
