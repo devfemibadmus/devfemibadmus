@@ -1,4 +1,4 @@
-<h1 align="center">I'm Dev Femi Badmus</h1>
+<h1 align="center">Dev Femi Badmus</h1>
 <h3 align="left">Web Full Stack Developer 💻 </h3>
 
 - 🔭 I’m currently working on [Hudallahi](https://hudallahi.herokuapp.com)
