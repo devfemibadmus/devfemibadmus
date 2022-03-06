@@ -1,5 +1,4 @@
-<h1 align="center">Dev Femi Badmus</h1>
-<h3 align="left">Web Full Stack Developer 💻 </h3>
+<h2 align="left">Web Full Stack Developer 💻 </h2>
 
 currently working on [Hudallahi](https://hudallahi.herokuapp.com)
 
