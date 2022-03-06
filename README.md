@@ -7,7 +7,8 @@
 
 - 🤝 I’m currently seeking a Django Dev Role
 
-- 👨‍💻 Check me out at ```md
+- 👨‍💻 Check me out at
+```md
 https://github.com/devfemibadmus/devfemibadmus)
 ```
 
