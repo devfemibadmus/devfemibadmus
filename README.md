@@ -12,7 +12,7 @@
 https://github.com/devfemibadmus/devfemibadmus)
 ```
 
-- 📫 Shoot me an [email](mailto:devfemibadmus@gmail.com)!
+- 📫 Shoot me an [email](mailto:devfemibadmus@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
