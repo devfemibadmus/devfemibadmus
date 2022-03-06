@@ -7,7 +7,6 @@
 
 - 🤝 I’m currently seeking a Django Dev Role
 
-```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank">
@@ -31,7 +30,6 @@
 </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 </p>
-```
 
 <h3><img align="center" src="https://github-readme-stats.vercel.app/api?username=devfemibadmus&show_icons=true&theme=dark&locale=en" alt="devfemibadmus" /></h3>
 
