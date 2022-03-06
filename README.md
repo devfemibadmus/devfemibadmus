@@ -7,7 +7,10 @@
 
 - 🤝 I’m currently seeking a Django Dev Role
 
-- 👨‍💻 Check me out at ```md ![My Portfolio](https://github.com/devfemibadmus/devfemibadmus)```
+- 👨‍💻 Check me out at 
+```md
+https://github.com/devfemibadmus/devfemibadmus)
+```
 
 - 📫 Shoot me an [email](mailto: devfemibadmus@gmail.com)!
 
