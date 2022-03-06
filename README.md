@@ -1,13 +1,13 @@
 <h1 align="center">I'm Dev Femi Badmus</h1>
 <h3 align="center">Web Full Stack Developer 💻 </h3>
 
-- 🔭 I’m currently working on [Hudallahi](https://hudallahi.herokuapp.com)!
+- 🔭 I’m currently working on [Hudallahi](https://hudallahi.herokuapp.com)
 
 - 🌱 I’m currently learning **Flutter** to become [Full Stack Dev](https://flutter.com/)
 
 - 🤝 I’m currently seeking a Django Dev Role
 
-```md
+- ```md
 https://github.com/devfemibadmus/devfemibadmus
 ```
 
