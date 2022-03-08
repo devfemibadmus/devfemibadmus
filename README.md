@@ -6,7 +6,7 @@ currently working on [Hudallahi](https://hudallahi.herokuapp.com)
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 </p>
 
-<p align="right"><a href="https://www.python.org" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="100" height="40"/></a>
+<p align="right"><a href="https://www.python.org" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="150" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="typescript" width="40" height="40"/></a>
 </p>
 
