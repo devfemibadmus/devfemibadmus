@@ -10,9 +10,9 @@ finished project [Timetable](https://my-time-tables.herokuapp.com)
 username: femi
 passwd: pas
 
-see [more...](https://devfemibadmus.herokuapp.com/aibot)
+see [more...](https://devfemibadmus.herokuapp.com)
 
-<a href="https://devfemibadmus.herokuapp.com" target="_blank" style="text-decoration: none;">
+<a href="https://devfemibadmus.herokuapp.com" target="_blank">
 <p align="right">
 <img src="html5-logo.jpg" alt="html5" width="40" height="40"/>
 <img src="css3.png" alt="css3" width="40" height="40"/>
