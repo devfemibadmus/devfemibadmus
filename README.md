@@ -2,7 +2,7 @@
 
 currently working on [Whatsit9ja](https://whatsit9ja.herokuapp.com)
 
-unfinished project [AIBot](https://devfemibadmus.herokuapp.com)
+unfinished project [AIBot](https://devfemibadmus.herokuapp.com/aibot)
 
 finished project [Hudallahi](https://hudallahi.herokuapp.com)
 
@@ -10,6 +10,7 @@ finished project [Timetable](https://my-time-tables.herokuapp.com)
 username: femi
 passwd: pas
 
+<a href="devfemibadmus.herokuapp.com">
 <p align="right">
 <img src="html5-logo.jpg" alt="html5" width="40" height="40"/>
 <img src="css3.png" alt="css3" width="40" height="40"/>
@@ -34,6 +35,7 @@ passwd: pas
 <p align="left">
 Contact
 </p>
+</a>
 
 <p align="left">
 <a href="https://twitter.com/devfemibadmus" target="blank">
