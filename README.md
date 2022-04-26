@@ -10,11 +10,12 @@ finished project [Timetable](https://my-time-tables.herokuapp.com)
 username: femi
 passwd: pas
 
-<p align="right"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<p align="right">
 <img src="html5-logo.jpg" alt="html5" width="40" height="40"/>
-<img src="ajax.png" alt="ajax" width="40" height="40"/>
-<img src="js.jpg" alt="Js" width="40" height="40"/>
+<img src="css3.png" alt="css3" width="40" height="40"/>
 <img src="jquery.png" alt="jQuery" width="40" height="40"/>
+<img src="js.jpg" alt="Js" width="40" height="40"/>
+<img src="ajax.png" alt="ajax" width="40" height="40"/>
 </p>
 
 <p align="right"><a href="https://www.python.org" target="_blank"><img src="https://www.python.org/static/img/python-logo.png" alt="javascript" width="150" height="40"/></a>
