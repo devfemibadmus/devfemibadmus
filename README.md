@@ -42,3 +42,10 @@ Contact
 <img align="center" src="https://abs.twimg.com/favicons/twitter.2.ico" alt="devfemibadmus" height="30" width="40" />
 </a>
 </p>
+
+
+<style>
+  a{
+  text-decoration: none !important;
+  }
+</style>
