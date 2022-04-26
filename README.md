@@ -32,7 +32,7 @@ passwd: pas
 </p>
 
 <p align="left">
-Connect with me:
+Contact
 </p>
 
 <p align="left">
