@@ -13,8 +13,9 @@ passwd: pas
 <p align="right">
 <img src="html5-logo.jpg" alt="html5" width="40" height="40"/>
 <img src="css3.png" alt="css3" width="40" height="40"/>
+<img src="js.jpg" alt="JavaScript" width="40" height="40"/>
 <img src="jquery.png" alt="jQuery" width="40" height="40"/>
-<img src="js.jpg" alt="Js" width="40" height="40"/>
+<img src="python.jpg" alt="python" width="40" height="40"/>
 <img src="ajax.png" alt="ajax" width="40" height="40"/>
 </p>
 
