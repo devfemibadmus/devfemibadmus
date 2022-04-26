@@ -20,10 +20,10 @@ passwd: pas
 </p>
 
 <p align="right">
-<img src="django.png" alt="django" width="150" height="40"/>
+<img src="django.png" alt="django" width="200" height="80"/>
 </p>
 <p align="right">
-<img src="flutter.png" alt="flutter" width="150" height="40"/>
+<img src="flutter.png" alt="flutter" width="200" height="60"/>
 </p>
 
 
