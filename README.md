@@ -1,6 +1,14 @@
 <h2 align="left">Web Full Stack Developer 💻 </h2>
 
-currently working on [Hudallahi](https://hudallahi.herokuapp.com)
+currently working on [Whatsit9ja](https://whatsit9ja.herokuapp.com)
+
+unfinished project [AIBot](https://devfemibadmus.herokuapp.com)
+
+finished project [Hudallahi](https://hudallahi.herokuapp.com)
+
+finished project [Timetable](https://my-time-tables.herokuapp.com)
+username: femi
+passwd: pas
 
 <p align="right"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
