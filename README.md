@@ -23,7 +23,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
 </p>
 
 <p align="right">
-<img src="django.png" alt="django" width="200" height="80"/>
+<img src="django.png" alt="django" width="200" height="100"/>
 </p>
 <p align="right">
 <img src="flutter.png" alt="flutter" width="200" height="60"/>
