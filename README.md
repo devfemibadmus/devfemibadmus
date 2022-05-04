@@ -22,26 +22,18 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <img src="ajax.png" alt="ajax" width="40" height="40"/>
 </p>
 
-<p style="display: inline-block;" align="center">
 <img src="django.png" alt="django" width="200" height="100"/>
+<br>
 <img src="flutter.png" alt="flutter" width="200" height="60"/>
-</p>
-
-
+<br/>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=devfemibadmus&show_icons=true&theme=dark&locale=en" alt="devfemibadmus" />
 </p>
 </a>
-
-<p align="left">
 Contact
-</p>
-
-<p align="left">
 <a href="https://twitter.com/devfemibadmus" target="_blank">
 <img align="center" src="https://abs.twimg.com/favicons/twitter.2.ico" alt="devfemibadmus" height="30" width="40" />
 </a>
-</p>
 
 
 
