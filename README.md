@@ -16,24 +16,23 @@ see [more...](https://devfemibadmus.herokuapp.com)
 
 <p align="right">
   <p align="center"><kbd>Front-end</kbd></p>
-  <img src="html5-logo.jpg" alt="html5" width="40" height="40"/>
-  <img src="css3.png" alt="css3" width="40" height="40"/>
-  <img src="js.jpg" alt="JavaScript" width="40" height="40"/>
-  <img src="jquery.png" alt="jQuery" width="40" height="40"/>
-  <img src="python.jpg" alt="python" width="40" height="40"/>
-  <img src="ajax.png" alt="ajax" width="40" height="40"/>
+  <img src="html5-logo.jpg" alt="html5" width="100" height="100"/>
+  <img src="css3.png" alt="css3" width="100" height="100"/>
+  <img src="js.jpg" alt="JavaScript" width="100" height="100"/>
+  <img src="jquery.png" alt="jQuery" width="100" height="100"/>
+  <img src="ajax.png" alt="ajax" width="100" height="100"/>
 </p>
 
 <p align="right">
   <p align="center"><kbd>Back-end</kbd></p>
-  <img src="images/python.svg" alt="Python" width="40" height="40"/>
-  <img src="images/dart.svg" alt="Dart" width="40" height="40"/>
+  <img src="images/python.svg" alt="Python" width="100" height="100"/>
+  <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
 </p>
 
 <p align="right">
   <p align="center"><kbd>OS</kbd></p>
-  <img src="images/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="images/microsoft.svg" alt="Microsoft" width="40" height="40"/>
+  <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
+  <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
 </p>
 
 <p align="left">
@@ -52,7 +51,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
 
 Contact
 <a href="https://twitter.com/devfemibadmus" target="_blank">
-<img align="center" src="https://abs.twimg.com/favicons/twitter.2.ico" alt="devfemibadmus" height="30" width="40" />
+<img align="center" src="https://abs.twimg.com/favicons/twitter.2.ico" alt="devfemibadmus" height="30" width="100" />
 </a>
 
 
