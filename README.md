@@ -30,7 +30,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
 </p>
 
 <p>
-  <p><kbd>OS</kbd></p>
+  <p><kbd>OS/Tools</kbd></p>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
 </p>
@@ -38,9 +38,9 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <div >
 <p>
   <p><kbd>Main</kbd></p>
-  <img src="django.png" alt="django" width="200" height="100"/>
+  <img src="images/django.png" alt="django" width="200" height="100"/>
   <br/>
-  <img src="flutter.png" alt="flutter" width="200" height="60"/>
+  <img src="images/flutter.png" alt="flutter" width="200" height="60"/>
 </p>
 
 <p>
@@ -56,11 +56,3 @@ Contact
 </a>
 
 
-
-
-
-<p style="display: inline-block;">
-    <kbd>Terminal Scripts</kbd>
-    <kbd>Tools</kbd>
-    <kbd>OS</kbd>
-</p>
