@@ -16,11 +16,11 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <div  align="right">
 <p>
   <p><kbd>Front-end</kbd></p>
-  <img src="html5-logo.jpg" alt="html5" width="100" height="100"/>
-  <img src="css3.png" alt="css3" width="100" height="100"/>
-  <img src="js.jpg" alt="JavaScript" width="100" height="100"/>
-  <img src="jquery.png" alt="jQuery" width="100" height="100"/>
-  <img src="ajax.png" alt="ajax" width="100" height="100"/>
+  <img src="images/html5.svg alt="html5" width="100" height="100"/>
+  <img src="images/css3.svg" alt="css3" width="100" height="100"/>
+  <img src="images/javascript.svg" alt="JavaScript" width="100" height="100"/>
+  <img src="images/jquery.svg" alt="jQuery" width="100" height="100"/>
+  <img src="images/ajax.svg" alt="ajax" width="100" height="100"/>
 </p>
 <br>
 <p>
