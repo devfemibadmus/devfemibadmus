@@ -35,7 +35,6 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
 </p>
 </div>
-<div >
 <p>
   <p><kbd>Main</kbd></p>
   <img src="images/django.png" alt="django" width="200" height="100"/>
@@ -46,7 +45,6 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=devfemibadmus&show_icons=true&theme=dark&locale=en" alt="devfemibadmus" />
 </p>
-</div>
 
 </a>
 
