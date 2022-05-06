@@ -1,4 +1,4 @@
-<h2 align="left">Web Full Stack Developer 💻 </h2>
+<h2>Web Full Stack Developer 💻 </h2>
 
 currently working on [Whatsit9ja](https://whatsit9ja.herokuapp.com)
 
@@ -13,7 +13,7 @@ passwd: pas
 see [more...](https://devfemibadmus.herokuapp.com)
 
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
-<div  align="center">
+<div  align="right">
 <p>
   <p><kbd>Front-end</kbd></p>
   <img src="html5-logo.jpg" alt="html5" width="100" height="100"/>
@@ -34,15 +34,16 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
 </p>
-
-<p align="left">
+</div>
+<div >
+<p>
   <p><kbd>Main</kbd></p>
   <img src="django.png" alt="django" width="200" height="100"/>
   <br/>
   <img src="flutter.png" alt="flutter" width="200" height="60"/>
 </p>
 
-<p align="left">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=devfemibadmus&show_icons=true&theme=dark&locale=en" alt="devfemibadmus" />
 </p>
 </div>
