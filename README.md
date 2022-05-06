@@ -13,8 +13,8 @@ passwd: pas
 see [more...](https://devfemibadmus.herokuapp.com)
 
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
-
-<p align="center">
+<div  align="center">
+<p>
   <p><kbd>Front-end</kbd></p>
   <img src="html5-logo.jpg" alt="html5" width="100" height="100"/>
   <img src="css3.png" alt="css3" width="100" height="100"/>
@@ -23,13 +23,13 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="ajax.png" alt="ajax" width="100" height="100"/>
 </p>
 
-<p align="center">
+<p>
   <p><kbd>Back-end</kbd></p>
   <img src="images/python.svg" alt="Python" width="100" height="100"/>
   <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
 </p>
 
-<p align="center">
+<p>
   <p><kbd>OS</kbd></p>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
@@ -43,22 +43,22 @@ see [more...](https://devfemibadmus.herokuapp.com)
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devfemibadmus&show_icons=true&theme=dark&locale=en" alt="devfemibadmus" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devfemibadmus&show_icons=true&theme=dark&locale=en" alt="devfemibadmus" />
 </p>
-
+</div>
 
 </a>
 
 Contact
 <a href="https://twitter.com/devfemibadmus" target="_blank">
-<img align="center" src="https://abs.twimg.com/favicons/twitter.2.ico" alt="devfemibadmus" height="30" width="100" />
+<img src="https://abs.twimg.com/favicons/twitter.2.ico" alt="devfemibadmus" height="30" width="40" />
 </a>
 
 
 
 
 
-<p style="display: inline-block;" align="center">
+<p style="display: inline-block;">
     <kbd>Terminal Scripts</kbd>
     <kbd>Tools</kbd>
     <kbd>OS</kbd>
