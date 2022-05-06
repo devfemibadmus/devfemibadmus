@@ -15,31 +15,37 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
 <div  align="right">
 <p>
-  <p><kbd>Front-end</kbd></p>
+  <kbd>
   <img src="images/html5.svg" alt="html5" width="100" height="100"/>
   <img src="images/css3.svg" alt="css3" width="100" height="100"/>
   <img src="images/javascript.svg" alt="JavaScript" width="100" height="100"/>
   <img src="images/jquery.svg" alt="jQuery" width="100" height="100"/>
   <img src="images/ajax.svg" alt="ajax" width="100" height="100"/>
+  </kbd>
 </p>
 <br>
 <p>
-  <p><kbd>Back-end</kbd></p>
+  <kbd>
   <img src="images/python.svg" alt="Python" width="100" height="100"/>
   <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
+  </kbd>
 </p>
 
 <p>
-  <p><kbd>OS/Tools</kbd></p>
+  <kbd>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
+  <img src="images/vscode.svg" alt="Visual Studio Code" width="100" height="100"/>
+  <img src="images/android-studio.svg" alt="Android Studio" width="100" height="100"/>
+  </kbd>
 </p>
 </div>
 <p>
-  <p><kbd>Main</kbd></p>
+  <kbd>
   <img src="images/django.png" alt="django" width="200" height="100"/>
   <br/>
   <img src="images/flutter.png" alt="flutter" width="200" height="60"/>
+  </kbd>
 </p>
 
 <p>
