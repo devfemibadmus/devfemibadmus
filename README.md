@@ -14,7 +14,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
 
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
 
-<p align="right">
+<p align="center">
   <p align="center"><kbd>Front-end</kbd></p>
   <img src="html5-logo.jpg" alt="html5" width="100" height="100"/>
   <img src="css3.png" alt="css3" width="100" height="100"/>
@@ -23,13 +23,13 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="ajax.png" alt="ajax" width="100" height="100"/>
 </p>
 
-<p align="right">
+<p align="center">
   <p align="center"><kbd>Back-end</kbd></p>
   <img src="images/python.svg" alt="Python" width="100" height="100"/>
   <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
 </p>
 
-<p align="right">
+<p align="center">
   <p align="center"><kbd>OS</kbd></p>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
