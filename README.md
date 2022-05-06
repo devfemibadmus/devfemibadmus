@@ -15,7 +15,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
 
 <p align="center">
-  <p align="center"><kbd>Front-end</kbd></p>
+  <kbd>Front-end</kbd>
   <img src="html5-logo.jpg" alt="html5" width="100" height="100"/>
   <img src="css3.png" alt="css3" width="100" height="100"/>
   <img src="js.jpg" alt="JavaScript" width="100" height="100"/>
@@ -24,19 +24,19 @@ see [more...](https://devfemibadmus.herokuapp.com)
 </p>
 
 <p align="center">
-  <p align="center"><kbd>Back-end</kbd></p>
+  <kbd>Back-end</kbd>
   <img src="images/python.svg" alt="Python" width="100" height="100"/>
   <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
 </p>
 
 <p align="center">
-  <p align="center"><kbd>OS</kbd></p>
+  <kbd>OS</kbd>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
   <img src="images/microsoft.svg" alt="Microsoft" width="100" height="100"/>
 </p>
 
 <p align="left">
-  <p align="center"><kbd>Main</kbd></p>
+  <kbd>Main</kbd>
   <img src="django.png" alt="django" width="200" height="100"/>
   <br/>
   <img src="flutter.png" alt="flutter" width="200" height="60"/>
