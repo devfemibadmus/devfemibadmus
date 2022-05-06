@@ -22,13 +22,13 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="jquery.png" alt="jQuery" width="100" height="100"/>
   <img src="ajax.png" alt="ajax" width="100" height="100"/>
 </p>
-
+<br>
 <p>
   <p><kbd>Back-end</kbd></p>
   <img src="images/python.svg" alt="Python" width="100" height="100"/>
   <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
 </p>
-
+<br>
 <p>
   <p><kbd>OS/Tools</kbd></p>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
