@@ -16,7 +16,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
 <div  align="right">
 <p>
   <p><kbd>Front-end</kbd></p>
-  <img src="images/html5.svg alt="html5" width="100" height="100"/>
+  <img src="images/html5.svg" alt="html5" width="100" height="100"/>
   <img src="images/css3.svg" alt="css3" width="100" height="100"/>
   <img src="images/javascript.svg" alt="JavaScript" width="100" height="100"/>
   <img src="images/jquery.svg" alt="jQuery" width="100" height="100"/>
