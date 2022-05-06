@@ -28,7 +28,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="images/python.svg" alt="Python" width="100" height="100"/>
   <img src="images/dart.svg" alt="Dart" width="100" height="100"/>
 </p>
-<br>
+
 <p>
   <p><kbd>OS/Tools</kbd></p>
   <img src="images/linux.svg" alt="Linux" width="100" height="100"/>
