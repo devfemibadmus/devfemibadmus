@@ -20,7 +20,7 @@ see [more...](https://devfemibadmus.herokuapp.com)
   <img src="images/css3.svg" alt="css3" width="100" height="100"/>
   <img src="images/javascript.svg" alt="JavaScript" width="100" height="100"/>
   <img src="images/jquery.svg" alt="jQuery" width="100" height="100"/>
-  <img src="images/ajax.svg" alt="ajax" width="100" height="100"/>
+  <img src="images/ajax.gif" alt="ajax" width="100" height="100"/>
   </kbd>
 </p>
 <br>
