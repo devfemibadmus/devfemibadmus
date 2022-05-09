@@ -1,16 +1,6 @@
 <h2>Web Full Stack Developer 💻 </h2>
 
-currently working on [Whatsit9ja](https://whatsit9ja.herokuapp.com)
-
-unfinished project [AIBot](https://devfemibadmus.herokuapp.com/aibot)
-
-finished project [Hudallahi](https://hudallahi.herokuapp.com)
-
-finished project [Timetable](https://my-time-tables.herokuapp.com)
-username: femi
-passwd: pas
-
-see [more...](https://devfemibadmus.herokuapp.com)
+see [more...](https://github.com/devfemibadmus?tab=repository)
 
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
 <div  align="right">
