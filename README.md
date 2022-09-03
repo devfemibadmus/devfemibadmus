@@ -1,6 +1,6 @@
 <h2>Full Stack Developer 💻 </h2>
 
-see [more...](https://github.com/devfemibadmus?tab=repositories)
+see [more...](https://www.youtube.com/channel/UCelbvkWLSOj8eQjDd79ZN9g)
 
 <a href="https://devfemibadmus.herokuapp.com" target="_blank">
 <div  align="right">
