@@ -21,3 +21,49 @@ Beyond GCP, my expertise encompasses Microsoft Azure, where I not only excel in 
 My commitment to excellence is evident in my proficiency in data structure modeling, a skill honed through various projects. Whether crafting APIs, deploying ML projects, or designing intricate data structures, I bring a meticulous approach to my work.
 
 With a solid foundation in both development and infrastructure, I am a dedicated professional poised to contribute to the dynamic landscape of software development. My adaptability, technical prowess, and commitment to high-quality solutions position me as an invaluable asset to any project or team.
+
+
+## Cloud Platforms
+
+### Google Cloud Platform (GCP)
+
+| **Project**                          | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- |
+| GCP Compute Hosting Project           | GCP Compute Engine, Linux, HTML, CSS, JavaScript |
+| GCP App Engine Project                | GCP App Engine, Python, Django                  |
+| GCP Cloud Storage Project             | GCP Cloud Storage, Django, HTML, CSS            |
+
+### Heroku
+
+| **Project**                          | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- |
+| Heroku Hosting Project                | Heroku, Python, Flask, HTML, CSS                 |
+
+### Firebase
+
+| **Project**                          | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- |
+| Firebase Realtime Database Project    | Firebase, JavaScript, HTML, CSS                 |
+
+### Microsoft Azure
+
+| **Project**                          | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- |
+| Azure Application Security Project    | Microsoft Azure, ASP.NET, C#, SQL Server         |
+
+## Infrastructure
+
+### Linux
+
+| **Project**                          | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- |
+| Linux VPS Management Project          | Linux, VPS Management                           |
+
+## Skills Overview
+
+| **Languages**           | **Frameworks**                  | **Database**                | **Tools**        |
+|-------------------------|---------------------------------|-----------------------------|------------------|
+| Python (Django, Flask)  | Django Rest Framework            | SQL (MySQL, SQL Server)     | Git              |
+| JavaScript              | Flask                           | Firebase Realtime Database  | Docker           |
+| HTML                    |                                 |                             |                  |
+| CSS                     |                                 |                             |                  |
