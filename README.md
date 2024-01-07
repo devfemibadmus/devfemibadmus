@@ -27,37 +27,37 @@ With a solid foundation in both development and infrastructure, I am a dedicated
 
 ### Google Cloud Platform (GCP)
 
-| **Project**                          | **Technologies**                               |
-| ------------------------------------ | ---------------------------------------------- |
-| GCP Compute Hosting Project           | GCP Compute Engine, Linux, HTML, CSS, JavaScript |
-| GCP App Engine Project                | GCP App Engine, Python, Django                  |
-| GCP Cloud Storage Project             | GCP Cloud Storage, Django, HTML, CSS            |
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| GCP Compute Hosting Project           | Brief description of the GCP Compute Hosting project. | GCP Compute Engine, Linux, HTML, CSS, JavaScript |
+| GCP App Engine Project                | Brief description of the GCP App Engine project.      | GCP App Engine, Python, Django                  |
+| GCP Cloud Storage Project             | Brief description of the GCP Cloud Storage project.   | GCP Cloud Storage, Django, HTML, CSS            |
 
 ### Heroku
 
-| **Project**                          | **Technologies**                               |
-| ------------------------------------ | ---------------------------------------------- |
-| Heroku Hosting Project                | Heroku, Python, Flask, HTML, CSS                 |
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| Heroku Hosting Project                | Brief description of the Heroku Hosting project.     | Heroku, Python, Flask, HTML, CSS                 |
 
 ### Firebase
 
-| **Project**                          | **Technologies**                               |
-| ------------------------------------ | ---------------------------------------------- |
-| Firebase Realtime Database Project    | Firebase, JavaScript, HTML, CSS                 |
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| Firebase Realtime Database Project    | Brief description of the Firebase Realtime Database project. | Firebase, JavaScript, HTML, CSS                 |
 
 ### Microsoft Azure
 
-| **Project**                          | **Technologies**                               |
-| ------------------------------------ | ---------------------------------------------- |
-| Azure Application Security Project    | Microsoft Azure, ASP.NET, C#, SQL Server         |
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| Azure Application Security Project    | Brief description of the Azure Application Security project. | Microsoft Azure, ASP.NET, C#, SQL Server         |
 
 ## Infrastructure
 
 ### Linux
 
-| **Project**                          | **Technologies**                               |
-| ------------------------------------ | ---------------------------------------------- |
-| Linux VPS Management Project          | Linux, VPS Management                           |
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| Linux VPS Management Project          | Brief description of the Linux VPS Management project. | Linux, VPS Management                           |
 
 ## Skills Overview
 
