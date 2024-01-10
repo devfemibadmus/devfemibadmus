@@ -16,8 +16,38 @@ Furthermore, my journey in the cloud extends to Google Cloud Platform (GCP), whe
 
 Beyond GCP, my expertise encompasses Microsoft Azure, where I not only excel in creating applications but also implement robust security measures. My focus on data integrity and confidentiality aligns with contemporary best practices, ensuring the safeguarding of sensitive information.
 
-## Commitment to Excellence
 
-My commitment to excellence is evident in my proficiency in data structure modeling, a skill honed through various projects. Whether crafting APIs, deploying ML projects, or designing intricate data structures, I bring a meticulous approach to my work.
 
-With a solid foundation in both development and infrastructure, I am a dedicated professional poised to contribute to the dynamic landscape of software development. My adaptability, technical prowess, and commitment to high-quality solutions position me as an invaluable asset to any project or team.
+## Cloud Platforms
+
+### Google Cloud Platform (GCP)
+
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| [easyfileshare ](https://github.com/devfemibadmus/easyfileshare)              | EasyFileShare is a lightweight python web application hosted on Google App Engine that simplifies file sharing without the need for user accounts. Leveraging the security of Google Cloud Storage, EasyFileShare provides a seamless and secure file-sharing experience.|App Engine, Cloud Storage, Python                |
+
+<!--
+### Heroku
+
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+| Heroku Hosting Project               | Brief description of the Heroku Hosting proje  | Heroku, Python, Flask, HTML, CSS               |
+-->
+### Firebase
+
+| **Project**                          | **Description**                                | **Technologies**                               |
+| ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
+|[Todo-list 2024](https://github.com/devfemibadmus/todolist-2024)   | Todolist-2024 is a user-friendly task management application designed to facilitate collaboration by allowing users to pair up with others and share task lists seamlessly. The primary goal is to enhance user productivity by providing a simple yet efficient way to manage tasks. | Firebase, JavaScript, HTML, CSS  |
+
+
+
+## Skills Overview
+
+| **Languages**           | **Frameworks**                  | **Database**                | **Tools**                                  |
+|-------------------------|---------------------------------|-----------------------------|--------------------------------------------|
+| Python                  | Django, Flask                   | SQL (MySQL, SQL Server, PostgreSQL) | Git, Docker, VS Code, Linux Shell, Windows CMD |
+| PHP                     |                                 | SQL (MySQL, SQL Server)     |                                            |
+| JavaScript              | Bootstrap                       | Firebase Realtime Database  |                                            |
+| HTML, CSS               | Bootstrap                       |                             |                                            |
+
+
